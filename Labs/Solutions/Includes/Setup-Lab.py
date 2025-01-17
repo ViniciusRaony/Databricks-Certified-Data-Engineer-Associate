@@ -1,4 +1,5 @@
 # Databricks notebook source
+# Test commit
 data_source_uri = "s3://dalhussein-courses/datasets/school/v1/"
 dataset_school = 'dbfs:/mnt/DE-Associate/datasets/school'
 checkpoint_path = 'dbfs:/mnt/DE-Associate/checkpoints/school'
